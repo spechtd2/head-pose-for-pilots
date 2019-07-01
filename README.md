@@ -1,5 +1,5 @@
 # Head-pose-for-pilots
-This code is a synthesis of natanielruiz's faster-rcnn and hopenet.
+This code is intended to be a synthesis of natanielruiz's faster-rcnn and hopenet with a few additions.
 ### link to faster - rcnn
 https://github.com/natanielruiz/py-faster-rcnn-dockerface
 ### link to hopenet
